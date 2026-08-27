@@ -1,0 +1,1 @@
+# GC_2026_Shark_Tank_Pitch_de_solucao_de_IA
