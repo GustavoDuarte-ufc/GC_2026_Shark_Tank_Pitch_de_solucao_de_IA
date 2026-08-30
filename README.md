@@ -32,7 +32,6 @@ uma recomendação de atividade física. Depois da atividade, o sistema registra
 participação e utiliza os novos dados para continuar ajustando as recomendações futuras. 
 
 # Referências
-https://colab.research.google.com/drive/1-1vdTzwwXIh577y-73m3T23bAjy8Lani?usp=sharing
 [Effectiveness of worksite wellness programs based on physical activity to improve workers’ 
 health and productivity: a systematic review | Systematic Reviews | Springer Nature Link ](https://link.springer.com/article/10.1186/s13643-023-02258-6#Sec23) 
 [Polar Loop | Pulseira inteligente e monitor de atividade e saúde sem tela | Polar Brasil](https://www.polar.com/br/loop) 
